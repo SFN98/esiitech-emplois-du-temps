@@ -1,0 +1,5 @@
+ESIITECH — Emplois du temps
+
+Pour prévisualiser le site : ouvrez index.html dans un navigateur (Chrome, Edge, Firefox).
+
+IMPORTANT : les boutons de téléchargement sont des exemples et ne pointent pas encore vers les emplois du temps PDF officiels. Pour activer les téléchargements, remplacez les liens d'exemple dans index.html par les chemins ou URL des vrais fichiers PDF.
